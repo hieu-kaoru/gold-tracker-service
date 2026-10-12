@@ -1,0 +1,59 @@
+{
+ "success": true,
+ "days": 4,
+ "type": "SJ9999",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "prices": {
+    "SJ9999": {
+     "name": "SJC Ring",
+     "buy": 140800000,
+     "sell": 143800000,
+     "day_change_buy": -500000,
+     "day_change_sell": -500000,
+     "updates": 2
+    }
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "prices": {
+    "SJ9999": {
+     "name": "SJC Ring",
+     "buy": 141300000,
+     "sell": 144300000,
+     "day_change_buy": 0,
+     "day_change_sell": 0,
+     "updates": 1
+    }
+   }
+  },
+  {
+   "date": "2026-10-10",
+   "prices": {
+    "SJ9999": {
+     "name": "SJC Ring",
+     "buy": 141300000,
+     "sell": 144300000,
+     "day_change_buy": 0,
+     "day_change_sell": 0,
+     "updates": 1
+    }
+   }
+  },
+  {
+   "date": "2026-10-09",
+   "prices": {
+    "SJ9999": {
+     "name": "SJC Ring",
+     "buy": 141300000,
+     "sell": 144300000,
+     "day_change_buy": 1800000,
+     "day_change_sell": 1800000,
+     "updates": 4
+    }
+   }
+  }
+ ]
+}

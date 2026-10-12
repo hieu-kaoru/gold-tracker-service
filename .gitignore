@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# Dữ liệu thu thập và mọi DB cục bộ
+*.db
+*.db-journal
+*.sqlite*
+.env
